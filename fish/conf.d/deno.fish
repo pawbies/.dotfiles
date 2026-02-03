@@ -1,0 +1,1 @@
+source "/home/pawbies/.deno/env.fish"
