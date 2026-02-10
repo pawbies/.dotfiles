@@ -6,7 +6,4 @@ end
 
 set -Ux FLYCTL_INSTALL $HOME/.fly
 fish_add_path -U ~/.fly/bin
-fish_add_path -U /usr/local/go/bin
-fish_add_path -U ~/osdev/cross/bin
 fish_add_path -U ~/.config/herd-lite/bin
-export PATH="$HOME/.local/bin:$PATH"

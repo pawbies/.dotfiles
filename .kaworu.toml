@@ -13,7 +13,12 @@ name = "Kitty"
 src = "kitty"
 dest = "~/.config/kitty"
 
-[[fish]]
+[[items]]
 name = "Fish"
 src = "fish"
 dest = "~/.config/fish"
+
+[[items]]
+name = "Fastfetch"
+src = "fastfetch"
+dest = "~/.config/fastfetch"
